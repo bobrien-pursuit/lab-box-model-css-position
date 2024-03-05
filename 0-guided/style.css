@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    border: 2px;
+}
+.container{
+    min-height: 90vh;
+    margin: 20px;
+    position: relative;
+    border: 5px solid black;
+}
+div {
+    border: 5px solid black;
+}
